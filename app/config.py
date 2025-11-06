@@ -22,6 +22,8 @@ class Settings(BaseSettings):
     WATSONX_PROJECT_ID: str
     WATSONX_AI_URL: str = "https://us-south.ml.cloud.ibm.com"
     WATSONX_MODEL_ID: str = "ibm/granite-3-2b-instruct"
+    # WATSONX_MODEL_ID: str = "meta-llama/llama-3-1-8b"
+    # WATSONX_MODEL_ID: str = "ibm/granite-3-2-8b-instruct"
     
     # CORS - string opcional, se parsea en main.py
     CORS_ORIGINS: str = "*"
