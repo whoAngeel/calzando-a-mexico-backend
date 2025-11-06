@@ -8,7 +8,7 @@ Backend FastAPI para el sistema de análisis gerencial con RAG (SQL-Augmented Ge
 * **Repositorio Frontend (Aplicación Web):** [https://github.com/carlossupreme/calzado-front](https://github.com/carlossupreme/calzado-front)
 * **Demo Dashboard y Chatbot gerencial:** [https://famous-halva-9160fc.netlify.app/](https://famous-halva-9160fc.netlify.app/)
 * **Bot de Telegram (@calzado\_admin\_bot):** [https://t.me/calzado_admin_bot](https://t.me/calzado_admin_bot)
-
+* **Diagramas:** [https://drive.google.com/drive/folders/1h6W8XZKfII-19jjqQzkaxDIjdJ2xvt6Q?usp=drive_link](https://drive.google.com/drive/folders/1h6W8XZKfII-19jjqQzkaxDIjdJ2xvt6Q?usp=drive_link)
 
 
 ## 📋 Requisitos
