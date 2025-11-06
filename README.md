@@ -2,6 +2,13 @@
 
 Backend FastAPI para el sistema de análisis gerencial con RAG (SQL-Augmented Generation) e IBM watsonx.ai
 
+# Entregables 
+Frontend https://github.com/carlosupreme/calzado-front
+Demo Dashboard https://famous-halva-9160fc.netlify.app/
+Bot Telegram https://t.me/calzando_admin_bot
+Chatbot gerencial https://famous-halva-9160fc.netlify.app/chat
+
+
 ## 📋 Requisitos
 
 - Python 3.9+
@@ -216,24 +223,3 @@ curl http://localhost:8000/health/watsonx
 - **Periodos**: Enero 2023 - Mayo 2025
 - **Tiendas**: 17 tiendas (Tienda 1 - Tienda 17)
 - **Métricas**: Inventario, Ventas, Cobertura
-
-## 🚀 Próximos Pasos
-
-1. ✅ Arquitectura definida
-2. ⏭️ Implementar services (db_service, chat_service, watsonx_service)
-3. ⏭️ Implementar utils (intent_parser, metrics)
-4. ⏭️ Testing local completo
-5. ⏭️ Deploy a IBM Cloud
-
-## 🤝 Contribuir
-
-Este es un proyecto de hackathon. Para agregar funcionalidades:
-
-1. Crear nueva rama
-2. Implementar cambios
-3. Testear localmente
-4. Merge a main
-
-## 📝 Licencia
-
-Proyecto académico para la Semana Interdisciplinaria UPIICSA 2025
