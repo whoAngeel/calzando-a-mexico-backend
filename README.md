@@ -3,10 +3,12 @@
 Backend FastAPI para el sistema de análisis gerencial con RAG (SQL-Augmented Generation) e IBM watsonx.ai
 
 # Entregables 
-Frontend https://github.com/carlosupreme/calzado-front
-Demo Dashboard https://famous-halva-9160fc.netlify.app/
-Bot Telegram https://t.me/calzando_admin_bot
-Chatbot gerencial https://famous-halva-9160fc.netlify.app/chat
+## 📦 Entregables
+
+* **Frontend (Aplicación Web):** [https://github.com/carlossupreme/calzado-front](https://github.com/carlossupreme/calzado-front)
+* **Demo Dashboard:** [https://famous-halva-9160fc.netlify.app/](https://famous-halva-9160fc.netlify.app/)
+* **Bot de Telegram (@calzado\_admin\_bot):** [https://t.me/calzado_admin_bot](https://t.me/calzado_admin_bot)
+* **Chatbot Gerencial (Web):** [https://famous-halva-9160fc.netlify.app/chat](https://famous-halva-9160fc.netlify.app/chat)
 
 
 ## 📋 Requisitos
